@@ -58,7 +58,7 @@ export default async function Home() {
             </div>
             <div className="flex items-center justify-center">
               <div className="relative w-full max-w-[500px] aspect-square">
-                <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-full blur-3xl opacity-20 animate-pulse"></div>
+                <div className="absolute inset-0 bg-gradient-to-r from-red-600 to-indigo-600 rounded-full blur-3xl opacity-20 animate-pulse"></div>
                 <div className="relative bg-black/40 backdrop-blur-sm border border-white/10 p-6 rounded-2xl shadow-2xl">
                   <div className="grid grid-cols-2 gap-4">
                     <div className="space-y-2 col-span-2">

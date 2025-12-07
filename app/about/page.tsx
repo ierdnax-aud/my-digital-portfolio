@@ -29,39 +29,39 @@ export default function AboutPage() {
           <div className="grid gap-10 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_500px]">
             <div className="flex flex-col justify-center space-y-6">
               <div className="space-y-2">
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">John Smith</h2>
+                <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">JAN XANDREI</h2>
                 <p className="text-xl text-muted-foreground">
-                  <span className="text-primary font-semibold">Cybersecurity Consultant & Penetration Tester</span>
+                  <span className="text-primary font-semibold">Cybersecurity and AI Specialist</span>
                 </p>
               </div>
               <div className="space-y-4">
                 <p className="text-muted-foreground">
-                  I am a dedicated cybersecurity professional with a passion for helping organizations strengthen their
-                  security posture and protect their valuable digital assets. With over 15 years of experience in the
-                  industry, I have worked with clients across various sectors, from financial services and healthcare to
-                  government and technology.
+                  I am a dedicated cybersecurity and AI specialist and student with a passion for helping organizations
+                  strengthen their security posture and protect their valuable digital assets. With over 15 years of
+                  industry experience, and three years focused on AI-driven security and professional certifications, I
+                  have supported clients across financial services, healthcare, government, and technology sectors.
                 </p>
                 <p className="text-muted-foreground">
-                  My approach combines technical expertise with a deep understanding of business needs, allowing me to
-                  develop security solutions that are both effective and practical. I believe that cybersecurity is not
-                  just about implementing technical controls, but also about building a culture of security awareness
-                  and resilience.
+                  My approach combines practical technical expertise in cybersecurity and artificial intelligence with a
+                  deep understanding of business needs. This enables me to design security and AI-driven solutions that
+                  are effective, scalable, and aligned with organizational goals. I believe cybersecurity is about people,
+                  process, and technology — and fostering a culture of security awareness is as important as technical
+                  controls.
                 </p>
                 <p className="text-muted-foreground">
-                  Throughout my career, I have helped organizations identify and address security vulnerabilities,
-                  implement robust security programs, and respond effectively to security incidents. I am committed to
-                  staying at the forefront of the rapidly evolving cybersecurity landscape and sharing my knowledge with
-                  clients and the broader security community.
+                  Throughout my career I have helped organizations identify and remediate vulnerabilities, implement
+                  robust security programs, and respond to incidents. I remain committed to continuous learning in both
+                  cybersecurity and AI, and to sharing insights with clients and the wider security community.
                 </p>
               </div>
             </div>
             <div className="flex items-center justify-center">
               <div className="relative w-full max-w-[400px] aspect-square">
-                <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-full blur-3xl opacity-20"></div>
+                <div className="absolute inset-0 bg-gradient-to-r from-red-600 to-indigo-600 rounded-full blur-3xl opacity-20"></div>
                 <div className="relative overflow-hidden rounded-xl border border-primary/20 bg-background p-2">
                   <Image
                     src="/cyber-guardian.png"
-                    alt="John Smith - Cybersecurity Professional"
+                    alt="JAN XANDREI - Cybersecurity and AI Specialist"
                     width={500}
                     height={500}
                     className="rounded-lg object-cover w-full h-full"

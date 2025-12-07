@@ -4,7 +4,7 @@ export default function CookiePolicyPage() {
       <section className="mb-12">
         <h2 className="text-2xl font-bold mb-4">Cookie Policy</h2>
         <p className="mb-4">
-          We use cookies and similar technologies on our website to enhance your experience, analyze traffic, and personalize content. By continuing to browse the site, you agree to our use of cookies. For more information, please see our <a href="#!" className="text-blue-600 hover:underline">Privacy Policy</a>.
+          We use cookies and similar technologies on our website to enhance your experience, analyze traffic, and personalize content. By continuing to browse the site, you agree to our use of cookies. For more information, please see our <a href="#!" className="text-red-600 hover:underline">Privacy Policy</a>.
         </p>
         <p className="mb-4">
           We use various types of cookies, including &quot;session&quot; cookies (which expire once you close your browser) and &quot;persistent&quot; cookies (which stay on your device until you delete them or they expire). We categorize our cookies as follows:
@@ -19,7 +19,7 @@ export default function CookiePolicyPage() {
           <li>
             <h3 className="text-lg font-semibold mb-2">Performance Cookies</h3>
             <p>
-              These cookies collect information about how you use our website, such as which pages you visit and if you experience any errors. Examples include cookies from Google Analytics (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Google&apos;s Privacy Policy</a>) and Hotjar (<a href="https://www.hotjar.com/legal/policies/privacy/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Hotjar&apos;s Privacy Policy</a>).
+              These cookies collect information about how you use our website, such as which pages you visit and if you experience any errors. Examples include cookies from Google Analytics (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline">Google&apos;s Privacy Policy</a>) and Hotjar (<a href="https://www.hotjar.com/legal/policies/privacy/" target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline">Hotjar&apos;s Privacy Policy</a>).
             </p>
           </li>
           <li>
@@ -31,7 +31,7 @@ export default function CookiePolicyPage() {
           <li>
             <h3 className="text-lg font-semibold mb-2">Targeting or Advertising Cookies</h3>
             <p>
-              These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator&apos;s permission. They remember that you have visited a website, and this information is shared with other organizations such as advertisers. Examples include cookies set by Google Ads (<a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Google&apos;s Ad Technologies</a>) or Facebook Pixel (<a href="https://www.facebook.com/policy/cookies/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Facebook&apos;s Cookie Policy</a>).
+              These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator&apos;s permission. They remember that you have visited a website, and this information is shared with other organizations such as advertisers. Examples include cookies set by Google Ads (<a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline">Google&apos;s Ad Technologies</a>) or Facebook Pixel (<a href="https://www.facebook.com/policy/cookies/" target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline">Facebook&apos;s Cookie Policy</a>).
             </p>
           </li>
         </ul>
@@ -60,7 +60,7 @@ export default function CookiePolicyPage() {
       <section>
         <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
         <p className="mb-4">
-          If you have any questions about our use of cookies or this Cookie Policy, please contact us at <a href="mailto:privacy@cyberapp.com" className="text-blue-600 hover:underline">privacy@cyberapp.com</a>. Your privacy is important to us, and we&apos;re committed to being transparent about how we use cookies.
+          If you have any questions about our use of cookies or this Cookie Policy, please contact us at <a href="mailto:privacy@cyberapp.com" className="text-red-600 hover:underline">privacy@cyberapp.com</a>. Your privacy is important to us, and we&apos;re committed to being transparent about how we use cookies.
         </p>
       </section>
     </div>
